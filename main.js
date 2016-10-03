@@ -6,7 +6,7 @@ var quotes = [
 	"I would rather overdose on heroin.",
 	"She was less interested in a clear container full of my dead skin flakes than the advertising had led me to believe."
 	"I have seen things today that make me ashamed.",
-	"No one likes you Badger"	
+	"No one likes you, Badger."	
 ];
 
 var getJoelism = function() {
