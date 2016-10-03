@@ -4,7 +4,9 @@ var quotes = [
 	"I couldn't give a shit about your stupid little projects.",
 	"Get fucked.",
 	"I would rather overdose on heroin.",
-	"She was less interested in a clear container full of my dead skin flakes that the advertising had led me to believe."
+	"She was less interested in a clear container full of my dead skin flakes than the advertising had led me to believe."
+	"I have seen things today that make me ashamed.",
+	"No one likes you, Badger."	
 ];
 
 var getJoelism = function() {
