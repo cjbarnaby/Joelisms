@@ -1,8 +1,8 @@
 {
   "name": "Joelisms",
   "manifest_version": 2,
-  "version": "1.5",
-  "description": "Pearl's of wisdom from The Blade.",
+  "version": "1.5.2",
+  "description": "Pearls of wisdom from The Blade.",
 
   "icons": {
     "16": "icon16.png",
